@@ -1,0 +1,56 @@
+1. Pet Adoption App
+○ Design classes for Pet, Dog, Cat, and Bird. Use inheritance and constructors
+to initialize them.
+
+Start
+
+class Pet 
+Attribute Name
+constructor Pet(Name)
+name = Name
+
+
+class Dog extends Pet
+Attribute Name
+constructor Dog(Name)
+name = name
+method to PrintName
+Print "Name"
+
+
+class Cat extends Pet
+Attribute Name
+constructor Cat(Name)
+name = name
+method to PrintName
+Print "Name"
+
+
+class Bird extends Pet
+Attribute Name
+constructor Bird(Name)
+name = name
+method to PrintName
+Print "Name"
+End
+
+2. Library Membership Tracker
+    ○ Create a class Member with attributes like name, ID, membership date. Add
+    methods to check membership validity.
+
+Start
+
+class Member
+Attributes name
+Attributes ID
+Attributes date
+
+Method to check validity
+If date > 30
+Print "duration Over"
+End If
+Else 
+Print "You have time"
+End Method
+
+End
